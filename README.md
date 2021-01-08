@@ -7,16 +7,28 @@ Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem profe
 No link abaixo você encontra o layout do projeto web.
 * [Layout Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web?node-id=0%3A1)
 
+<p align="center">
+<img alt="Estudar Gif" src=".github/estudar.gif" width="600px">
+</p>
+
+<p align="center">
+<img alt="Home image" src=".github/landing.png" width="600px">
+</p>
+
+<p align="center">
+<img alt="Dar aulas gif" src=".github/dar_aulas.gif" width="600px">
+</p>
+
 # Como executar o projeto
 ## Pré-Requisitos
 * [Node Js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/)
 ```bash
 # Clone o repositório
-$ git clone https://github.com/Lucas-Godoi/***verificar
+$ git clone https://github.com/Lucas-Godoi/NLW2-Proffy.git
 
 # Acesse a pasta do projeto no prompt de comando
-$ cd NLW-2 ***verficar
+$ cd NLW2-Proffy
 
 # Instale as dependências
 $ npm install
@@ -36,7 +48,7 @@ $ rem -r src/database/database.sqlite
 $ node src/database/db.js
 ```
 
-## As seguintes ferramentas foram usadas na construção do projeto:
+## Tecnologias usadas na construção do projeto:
 
 #### Front-end:
 * HTML
