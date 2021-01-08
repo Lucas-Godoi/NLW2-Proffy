@@ -63,4 +63,4 @@ $ node src/database/db.js
 #### Database 
 * Sqlite-Async
 
-<h4 align=center>Por Lucas Godoi <a href="https://www.linkedin.com/in/godoi-lucas/">Entre em contato :)</a></a></h4>
+<h4 align=center target="_blank" >Por Lucas Godoi <a href="https://www.linkedin.com/in/godoi-lucas/">Entre em contato :)</a></a></h4>
