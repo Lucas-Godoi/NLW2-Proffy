@@ -1,5 +1,5 @@
 # Sobre o projeto
-Este projeto foi desenvolvido durante a **NLW #2 Next Level Week**, evento disponibilizado pela [**Rocketseat**](https://rocketseat.com.br/).
+Este projeto foi desenvolvido durante a **NLW #2 - Next Level Week**, evento disponibilizado pela [**Rocketseat**](https://rocketseat.com.br/).
 
 Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online, de forma rápida e simples.
 
